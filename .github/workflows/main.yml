@@ -32,4 +32,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: clean-dataset
-          path: preprocessing/data_clean/
+          path: preprocessing/telco_customer_churn_preprocessing/
